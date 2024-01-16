@@ -1,1 +1,1 @@
-A simple cat gallery in HTML & CSS 
+## A simple cat gallery in HTML & CSS 

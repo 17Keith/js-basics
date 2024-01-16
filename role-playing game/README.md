@@ -1,1 +1,1 @@
-A role playing game (RPG) in HTML, CSS and Vanilla JS. 
+## A role playing game (RPG) in HTML, CSS and Vanilla JS. 
